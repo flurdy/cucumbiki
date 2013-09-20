@@ -23,6 +23,6 @@ References
 * FitNesse http://www.fitnesse.org/
 * Wiki https://en.wikipedia.org/wiki/Wiki
 * Maven https://maven.apache.org/
-* Scala http://scala-lang.org
+* Git http://git-scm.com/
 
 
